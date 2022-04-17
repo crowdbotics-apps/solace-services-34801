@@ -1021,7 +1021,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/app-menu@file:./modules/app-menu/":
+"@modules/articles@file:./modules/articles/":
   version "1.0.0"
 
 "@modules/chat@file:./modules/chat":
