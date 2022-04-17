@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-push-notifications](backend/modules/push-notifications)
 - [payments]()
 - [terms-and-conditions]()
+- [privacy-policy]()
 
 # Getting started: Frontend
 
